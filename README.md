@@ -16,7 +16,7 @@ Analyze player feedback by performing sentiment classification on Google Play St
 
 ## Files
 - `Google Play Reviews Sentiment Analysis.ipynb`: full text mining and sentiment analysis workflow
-- `infinity_nikki_1000_reviews`: review dataset
+- `infinity_nikki_1000_reviews.csv`: review dataset
 
 ## Results
 - Best model accuracy: ~82% using LinearSVC with TF-IDF
